@@ -20,4 +20,5 @@ Alexander commit 1: se añadio la estamina a el personaje principal este estamin
 Alexander commit 2: se agrego la mecanica que baja la velocidad de movimineto del jugador con respecto a la estamina y sube cuando esta misma incrementa (cuando esta quieto maximo de estamina
     100, maximo de velocidad de movimiento 500).
 
-
+Vladimir.
+-Configuracion de multijugador subsystem de Steam.
