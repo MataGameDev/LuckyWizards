@@ -21,4 +21,5 @@ Alexander commit 2: se agrego la mecanica que baja la velocidad de movimineto de
     100, maximo de velocidad de movimiento 500).
 
 Vladimir.
--Configuracion de multijugador subsystem de Steam.
+- Configuracion de multijugador subsystem de Steam.
+- Implementacion de assets.
