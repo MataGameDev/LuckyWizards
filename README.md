@@ -29,4 +29,8 @@ Vladimir 0.0.3:
 - Implementacion de assets.
 -----------------------------------------------------
 Miguel 0.0.4:
-- Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash 
+- Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash
+
+-----------------------------------------------------
+
+Alexander Nota : Fix Velocidad de cansancio 
