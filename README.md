@@ -33,4 +33,4 @@ Miguel 0.0.4:
 
 -----------------------------------------------------
 
-Alexander Nota : Fix Velocidad de cansancio 
+Alexander Nota : Fix Velocidad de cansancio / Launch Player 
