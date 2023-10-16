@@ -27,3 +27,6 @@ Alexander 0.0.2:
 Vladimir 0.0.3:
 - Configuracion de multijugador subsystem de Steam.
 - Implementacion de assets.
+-----------------------------------------------------
+Miguel 0.0.4:
+- Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash 
