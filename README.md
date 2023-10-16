@@ -17,7 +17,7 @@ A MENOS QUE LO QUE SE ENCUENTREN DESARROLLANDO ESTE COMPLETADO , POR NINGUN MOTI
 6.-RECUERDA QUE TRABAJAR EN EQUIPO EN UN PROYECTO DE DESARROLLO DE VIDEOJUEGOS PUEDE SER COMPLEJO, Y ES IMPORTANTE MANTENER UNA COMUNICACIÓN EFECTIVA Y UN ENFOQUE DISCIPLINADO EN CUANTO AL CONTROL DE VERSIONES. 
 
 Alexander 0.0.1: 
-- se añadio la estamina a el personaje principal este estamina baja cuando el jugador se mueve de la manera que sea y se regenera cuando el jugador esta quieto.
+- se añadio la estamina a el personaje principal este estamina baja cuando el jugador se mueve de la manera que sea y se regenera cuando el jugador esta quieto.                   
 Alexander 0.0.2: 
 - se agrego la mecanica que baja la velocidad de movimineto del jugador con respecto a la estamina y sube cuando esta misma incrementa (cuando esta quieto maximo de estamina
   100, maximo de velocidad de movimiento 500).
