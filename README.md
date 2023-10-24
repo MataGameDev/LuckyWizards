@@ -24,10 +24,12 @@ Alexander 0.0.2:
 - se agrego la mecanica que baja la velocidad de movimineto del jugador con respecto a la estamina y sube cuando esta misma incrementa (cuando esta quieto maximo de estamina
   100, maximo de velocidad de movimiento 500).
 -----------------------------------------------------
-Vladimir 0.0.3:
+Vladimir 0.0.3 (Cosas funkys que hizo Vladi pero no sabe ni que pedo con el numero de version UwU):
 - Configuracion de multijugador subsystem de Steam.
 - Implementacion de assets y skeletal mesh del player.
 - Animaciones basicas del player.
+- Watershoot rework.
+- Implementacion de vida al personaje.
 -----------------------------------------------------
 Miguel 0.0.4:
 - Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash
