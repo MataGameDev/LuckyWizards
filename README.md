@@ -41,6 +41,7 @@ A MENOS QUE LO QUE SE ENCUENTREN DESARROLLANDO ESTE COMPLETADO , POR NINGUN MOTI
 ## Miguel 0.0.6:
 - Se añadio el Level Design para el combate multiplayer.
 - Efecto  para la Bola de fuego.
+- Blueprint Disparo de Agua
 ----------------------------------------------------
 ## EduardoCamarena 0.0.7: 
 - Se añadieron 4 'Widget Blueprints'
