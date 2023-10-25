@@ -38,7 +38,12 @@ A MENOS QUE LO QUE SE ENCUENTREN DESARROLLANDO ESTE COMPLETADO , POR NINGUN MOTI
 ## Alexander 0.0.5:
 - Se añadio la mecanica de poner un muro que crece con el paso del tiempo. 
 -----------------------------------------------------
-## EduardoCamarena 0.0.6: 
+## Miguel 0.0.6:
+- Se añadio el Level Design para el combate multiplayer 
+- Efecto  para la Bola de fuego 
+- 
+----------------------------------------------------
+## EduardoCamarena 0.0.7: 
 - Se añadieron 4 'Widget Blueprints'
  - 'MainMenu' : Widget principal para el inicio del juego, puede mostrar los otros 3 WBP, cerrar el juego y cargar el nivel principal.
  - 'Options' : Maneja las opciones de resolucion y tipo de pantalla del juego, actualmente no funcional el cambio de resolución en modo ventana.
@@ -48,7 +53,7 @@ A MENOS QUE LO QUE SE ENCUENTREN DESARROLLANDO ESTE COMPLETADO , POR NINGUN MOTI
 - Se creó un archivo de configuración 'DefaultGameUserSettings' para la modificación de resoluciones y tipos de pantalla.
 - Se añadió un icono de proyecto para mostrar en editor.
 ----------------------------------------------------
-## EduardoCamarena 0.0.7:
+## EduardoCamarena 0.0.8:
 - Se añadio dos nuevos WidgetBlueprint correspondiente al HUD del jugador y el submenú de botones para jugar.
 - Se añadieron 3 assets de texturas para iconos del HUD y la pantalla del tutorial.
 ### Cambios fuera de carpeta
