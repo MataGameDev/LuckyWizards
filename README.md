@@ -20,24 +20,25 @@ Alexander 0.0.1:
 - se añadio la estamina a el personaje principal este estamina baja cuando el jugador se mueve de la manera que sea y se regenera cuando el jugador esta quieto.
 
 -----------------------------------------------------
-Alexander 0.0.2: 
+##Alexander 0.0.2: 
 - se agrego la mecanica que baja la velocidad de movimineto del jugador con respecto a la estamina y sube cuando esta misma incrementa (cuando esta quieto maximo de estamina
   100, maximo de velocidad de movimiento 500).
 -----------------------------------------------------
-Vladimir 0.0.3 (Cosas funkys que hizo Vladi pero no sabe ni que pedo con el numero de version UwU):
+##Vladimir 0.0.3 (Cosas funkys que hizo Vladi pero no sabe ni que pedo con el numero de version UwU):
 - Configuracion de multijugador subsystem de Steam.
 - Implementacion de assets y skeletal mesh del player.
 - Animaciones basicas del player.
 - Watershoot rework.
 - Implementacion de vida al personaje.
 -----------------------------------------------------
-Miguel 0.0.4:
+##Miguel 0.0.4:
 - Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash
 -----------------------------------------------------
-Alexander 0.0.5:
+
+##Alexander 0.0.5:
 - Se añadio la mecanica de poner un muro que crece con el paso del tiempo. 
 -----------------------------------------------------
-  EduardoCamarena 0.0.6: 
+##EduardoCamarena 0.0.6: 
 - Se añadieron 4 'Widget Blueprints'
  - 'MainMenu' : Widget principal para el inicio del juego, puede mostrar los otros 3 WBP, cerrar el juego y cargar el nivel principal.
  - 'Options' : Maneja las opciones de resolucion y tipo de pantalla del juego, actualmente no funcional el cambio de resolución en modo ventana.
@@ -46,3 +47,12 @@ Alexander 0.0.5:
 - Se modificó el nivel predeterminado de la build del proyecto para mostrar el nivel de menús al inicio.
 - Se creó un archivo de configuración 'DefaultGameUserSettings' para la modificación de resoluciones y tipos de pantalla.
 - Se añadió un icono de proyecto para mostrar en editor.
+----------------------------------------------------
+##EduardoCamarena 0.0.7:
+- Se añadio dos nuevos WidgetBlueprint correspondiente al HUD del jugador y el submenú de botones para jugar.
+- Se añadieron 3 assets de texturas para iconos del HUD y la pantalla del tutorial.
+### Cambios fuera de carpeta
+- Se modificó el 'LuckyWizardsCharacter.cpp' para establecer el nivel a cargar en el sistema online. (NO TESTEADO)
+- Se modificó la 'BP_ThirdPersonCharacter'
+ - Al iniciar el juego instancia un 'WBP_HUD' asignado al jugador. (Se desconoce su comportamiento en linea)
+ - Se creó una nueva función 'ModifyStaminaValues', llamada para cambiar el valor de la stamina del jugador y actualizar el HUD widget al mismo tiempo, aprovechando para limitar el valor (0-100) y funcionar universalmente con reducciones o aumentos. TODO, borrar las implementaciones previas de reducciones/aumentos.
