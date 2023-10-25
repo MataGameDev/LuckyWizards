@@ -219,7 +219,7 @@ void ALuckyWizardsCharacter::OnCreateSessionComplete(FName SessionName, bool bWa
 		if(World)
 		{
 			//Direccion del mapa donde se spawneara a los jugadores
-			World->ServerTravel(FString("/Game/ThirdPerson/Maps/Lobby?listen")); //TEMPORAL
+			World->ServerTravel(FString("/Game/Main_LuckyWizards/Levels/MageWorld?listen")); //TEMPORAL
 		}
 	}
 	else
