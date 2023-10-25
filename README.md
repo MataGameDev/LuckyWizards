@@ -33,10 +33,16 @@ Vladimir 0.0.3 (Cosas funkys que hizo Vladi pero no sabe ni que pedo con el nume
 -----------------------------------------------------
 Miguel 0.0.4:
 - Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash
-
 -----------------------------------------------------
-Alexander 0.0.3:
+Alexander 0.0.5:
 - Se añadio la mecanica de poner un muro que crece con el paso del tiempo. 
-
 -----------------------------------------------------
- 
+  EduardoCamarena 0.0.6: 
+- Se añadieron 4 'Widget Blueprints'
+ - 'MainMenu' : Widget principal para el inicio del juego, puede mostrar los otros 3 WBP, cerrar el juego y cargar el nivel principal.
+ - 'Options' : Maneja las opciones de resolucion y tipo de pantalla del juego, actualmente no funcional el cambio de resolución en modo ventana.
+ - 'HowToPlay' : Muestra imagenes que serán modificadas en un futuro para mostrar controles y mecanicas del juego.
+ - 'Credits' : Muestra nombres y trabajos de los desarrolladores en el proyecto.
+- Se modificó el nivel predeterminado de la build del proyecto para mostrar el nivel de menús al inicio.
+- Se creó un archivo de configuración 'DefaultGameUserSettings' para la modificación de resoluciones y tipos de pantalla.
+- Se añadió un icono de proyecto para mostrar en editor.
