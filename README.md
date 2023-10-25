@@ -15,30 +15,30 @@ A MENOS QUE LO QUE SE ENCUENTREN DESARROLLANDO ESTE COMPLETADO , POR NINGUN MOTI
 5.-LA FECHA PARA LA FINALIZACION DEL PROYECTO ES EL 23 DE OCTUBRE DEL 2023 , CUALQUIER NECESIDAD DE CAMBIO DESPUES DE ESA FECHA CONTARA COMO NO TRABAJADO. LA BUILD DEL PROYECTO TIENE QUE ESTAR LISTA EL 24 DE OCTUBRE DEL 2023.
 
 6.-RECUERDA QUE TRABAJAR EN EQUIPO EN UN PROYECTO DE DESARROLLO DE VIDEOJUEGOS PUEDE SER COMPLEJO, Y ES IMPORTANTE MANTENER UNA COMUNICACIÓN EFECTIVA Y UN ENFOQUE DISCIPLINADO EN CUANTO AL CONTROL DE VERSIONES. 
-
-Alexander 0.0.1: 
+-----------------------------------------------------
+## Alexander 0.0.1: 
 - se añadio la estamina a el personaje principal este estamina baja cuando el jugador se mueve de la manera que sea y se regenera cuando el jugador esta quieto.
 
 -----------------------------------------------------
-##Alexander 0.0.2: 
+## Alexander 0.0.2: 
 - se agrego la mecanica que baja la velocidad de movimineto del jugador con respecto a la estamina y sube cuando esta misma incrementa (cuando esta quieto maximo de estamina
   100, maximo de velocidad de movimiento 500).
 -----------------------------------------------------
-##Vladimir 0.0.3 (Cosas funkys que hizo Vladi pero no sabe ni que pedo con el numero de version UwU):
+## Vladimir 0.0.3 (Cosas funkys que hizo Vladi pero no sabe ni que pedo con el numero de version UwU):
 - Configuracion de multijugador subsystem de Steam.
 - Implementacion de assets y skeletal mesh del player.
 - Animaciones basicas del player.
 - Watershoot rework.
 - Implementacion de vida al personaje.
 -----------------------------------------------------
-##Miguel 0.0.4:
+## Miguel 0.0.4:
 - Se añadieron 3 efectos de particulas mediante el uso de Niagara System para la habilidad del dash
 -----------------------------------------------------
 
-##Alexander 0.0.5:
+## Alexander 0.0.5:
 - Se añadio la mecanica de poner un muro que crece con el paso del tiempo. 
 -----------------------------------------------------
-##EduardoCamarena 0.0.6: 
+## EduardoCamarena 0.0.6: 
 - Se añadieron 4 'Widget Blueprints'
  - 'MainMenu' : Widget principal para el inicio del juego, puede mostrar los otros 3 WBP, cerrar el juego y cargar el nivel principal.
  - 'Options' : Maneja las opciones de resolucion y tipo de pantalla del juego, actualmente no funcional el cambio de resolución en modo ventana.
@@ -48,7 +48,7 @@ Alexander 0.0.1:
 - Se creó un archivo de configuración 'DefaultGameUserSettings' para la modificación de resoluciones y tipos de pantalla.
 - Se añadió un icono de proyecto para mostrar en editor.
 ----------------------------------------------------
-##EduardoCamarena 0.0.7:
+## EduardoCamarena 0.0.7:
 - Se añadio dos nuevos WidgetBlueprint correspondiente al HUD del jugador y el submenú de botones para jugar.
 - Se añadieron 3 assets de texturas para iconos del HUD y la pantalla del tutorial.
 ### Cambios fuera de carpeta
